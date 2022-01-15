@@ -14,7 +14,7 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 
 - 💬 Ask me about anything, I'm happy to help
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/lorenzo-mario-amorosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzo-mario-amorosa" height="30" width="40" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/anna-fabris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzo-mario-amorosa" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
