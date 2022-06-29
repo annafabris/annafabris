@@ -8,13 +8,13 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 - 🌱 I’m currently learning **Reinforcement Learning**
 
 - ⚡ Fun fact: I swim since I was 5 y/o but I'm good only at backstroke
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/Lostefra)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/annafabris)
 - 📄 Know about my experiences: [CV / Résumé](https://docs.google.com/document/d/1zkIMZMSIkRN_5s7iQmImOThlqtYkrWm2UD7cc4OlB5U/edit?usp=sharing)
 -->
 
 - 💬 Ask me about anything, I'm happy to help
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/anna-fabris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzo-mario-amorosa" height="30" width="40" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/anna-fabris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anna-fabris" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
