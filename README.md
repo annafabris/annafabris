@@ -29,3 +29,9 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-gb/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>  </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annafabris&show_icons=true&locale=en&layout=compact" alt="annafabris" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&show_icons=true&locale=en" alt="annafabris" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annafabris&" alt="annafabris" /></p>
