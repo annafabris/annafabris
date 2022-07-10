@@ -33,5 +33,3 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annafabris&show_icons=true&locale=en&layout=compact" alt="annafabris" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&show_icons=true&locale=en" alt="annafabris" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annafabris&" alt="annafabris" /></p>
