@@ -1,6 +1,6 @@
 <h1>Hi everyone, I'm Anna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I recently graduated from the  **University of Bologna**  in  **Computer Science and Engineering**  (Ingegneria e Scienze Informatiche) and I'm currently enrolled in the  **Artificial Intelligence**  MSc at the  **University of Bologna**.
+I wil soon graduate from the **Artificial Intelligence**  MSc at the  **University of Bologna**. I also completed the **Computer Science and Engineering**  (Ingegneria e Scienze Informatiche) Bachelor at the **University of Bologna**.
 
 <!--
 - 🔭 I’m currently working on [anonymization tools](LINK)
@@ -9,15 +9,15 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/annafabris)
 - 📄 Know about my experiences: [CV / Résumé](LINK)
+- 🖥️ I’m currently working at [Wiseair](https://www.wiseair.vision/)
 -->
+- ❤️ I love writing in Python, and building machine learning models
 
 - 💬 Ask me about anything, I'm happy to help
 
-- 🖥️ I’m currently working at [Wiseair](https://www.wiseair.vision/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anna-fabris/)
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/anna-fabris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anna-fabris" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
