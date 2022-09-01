@@ -1,4 +1,4 @@
-<h1>Hi everyone 👋, I'm Anna</h1>
+<h1>Hi everyone, I'm Anna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I recently graduated from the  **University of Bologna**  in  **Computer Science and Engineering**  (Ingegneria e Scienze Informatiche) and I'm currently enrolled in the  **Artificial Intelligence**  MSc at the  **University of Bologna**.
 
@@ -30,6 +30,5 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annafabris&show_icons=true&locale=en&layout=compact" alt="annafabris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&show_icons=true&locale=en" alt="annafabris" /></p>
+| <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
