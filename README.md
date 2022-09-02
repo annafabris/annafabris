@@ -35,5 +35,5 @@ I wil soon graduate from the **Artificial Intelligence**  MSc at the  **Universi
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>  </p>
 -->
 
-| <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annafabris&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
