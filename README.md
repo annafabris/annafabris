@@ -1,6 +1,6 @@
 <h1>Hi everyone, I'm Anna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I wil soon graduate from the **Artificial Intelligence**  MSc at the  **University of Bologna**. I also completed the **Computer Science and Engineering**  (Ingegneria e Scienze Informatiche) Bachelor at the **University of Bologna**.
+I graduated from the **Artificial Intelligence**  MSc at the  **University of Bologna**. I also completed the **Computer Science and Engineering**  (Ingegneria e Scienze Informatiche) Bachelor at the **University of Bologna**.
 
 <!--
 - 🔭 I’m currently working on [anonymization tools](LINK)
