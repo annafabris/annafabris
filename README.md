@@ -36,6 +36,5 @@ I graduated from the **Artificial Intelligence**  MSc at the  **University of Bo
 -->
 
 ---
-
-| <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=annafabris&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=annafabris&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/annafabris/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
