@@ -11,7 +11,7 @@ I completed my MSc in **Artificial Intelligence** at the  **University of Bologn
 - 📄 Know about my experiences: [CV / Résumé](LINK)
 - 🖥️ I’m currently working at [Wiseair](https://www.wiseair.vision/)
 -->
-- ❤️ I love writing in Python, and building machine learning models
+- ❤️ I love writing code in Python, and building machine learning models
 
 - 💬 Ask me about anything, I'm happy to help
 
