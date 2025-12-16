@@ -4,12 +4,11 @@ I'm currently working as AI Engineer. I completed my MSc in **Artificial Intelli
 
 <!--
 - 🔭 I’m currently working on [anonymization tools](LINK)
-
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/annafabris)
 - 📄 Know about my experiences: [CV / Résumé](LINK)
 - 🖥️ I’m currently working at [Wiseair](https://www.wiseair.vision/)
 -->
-- ❤️ I love writing code in Python, and building machine learning models
+- ❤️ I love writing code in Python, and building Machine Learning models
 
 - 💬 Ask me about anything, I'm happy to help
 
