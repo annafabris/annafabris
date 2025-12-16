@@ -33,7 +33,7 @@ I'm currently working as AI Engineer. I completed my MSc in **Artificial Intelli
 -->
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annafabris&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annafabris&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 | <img src="https://github-readme-stats.vercel.app/api?username=annafabris&show=reviews" />| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annafabris&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
