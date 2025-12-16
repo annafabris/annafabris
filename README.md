@@ -1,11 +1,9 @@
 <h1>Hi everyone, I'm Anna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I completed my MSc in **Artificial Intelligence** at the  **University of Bologna** and also earned a Bachelor's degree in **Computer Science and Engineering** (Ingegneria e Scienze Informatiche) from the same University. I'm currently working as ML engineer.
+I'm currently working as AI Engineer. I completed my MSc in **Artificial Intelligence** at the  **University of Bologna** and also earned a Bachelor's degree in **Computer Science and Engineering** (Ingegneria e Scienze Informatiche) from the same University. 
 
 <!--
 - 🔭 I’m currently working on [anonymization tools](LINK)
-
-- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/annafabris)
 - 📄 Know about my experiences: [CV / Résumé](LINK)
